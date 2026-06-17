@@ -1,0 +1,48 @@
+{
+  "mcpServers": {
+    "cloudflare": {
+      "type": "sse",
+      "url": "https://mcp.cloudflare.com/sse",
+      "headers": {
+        "Authorization": "Bearer ${CLOUDFLARE_API_TOKEN}"
+      }
+    },
+    "emailbison": {
+      "type": "http",
+      "url": "https://api.emailbison.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${EMAILBISON_API_KEY}",
+        "Content-Type": "application/json"
+      }
+    },
+    "instantly": {
+      "type": "http",
+      "url": "https://api.instantly.ai/mcp",
+      "headers": {
+        "Authorization": "Bearer ${INSTANTLY_API_KEY}",
+        "Content-Type": "application/json"
+      }
+    },
+    "notion": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@notionhq/notion-mcp-server"],
+      "env": {
+        "NOTION_TOKEN": "${NOTION_TOKEN}"
+      }
+    },
+    "fireflies": {
+      "command": "npx",
+      "args": [
+        "mcp-remote",
+        "https://api.fireflies.ai/mcp",
+        "--header",
+        "Authorization: Bearer ${FIREFLIES_API_KEY}"
+      ]
+    },
+    "sunsama": {
+      "type": "http",
+      "url": "https://api.sunsama.com/mcp"
+    }
+  }
+}
