@@ -18,7 +18,7 @@
 - **Geo focus:** National US (multiple metro markets)
 - **Repo:** Kale-Acquisition/kale-n2
 - **Email domains:** @n2co.com
-- **Notes:** Longest-running client. 31 deals closed mid-May; targeting 100/mo by year-end. BeLocal CG-1 launched and performing (1:44.6). Infrastructure rotation complete — GMaps surged to 1:70.4. 🔴 Data supply critical (Instantly ~9 days, EmailBison ~5 days as of July 24). Terraboost Aug 3 deadline for retention value case.
+- **Notes:** Longest-running client. 31 deals closed mid-May; targeting 100/mo by year-end. BeLocal CG-1 launched (1:68.8 most recent week). Week of July 24-30: 821 positives / 53,361 sends — steady. NonPersonal strengthened to 1:63.2; Personal weakened — investigating. 🔴 Data pipeline expansion underway. Derick Gilliam Jr (SDR team lead) onboarded to inbox tool July 31.
 
 ### N2 Recruiting
 
@@ -30,7 +30,7 @@
 - **Geo focus:** National US (started Salt Lake City, expanded to DFW + larger metros)
 - **Repo:** Kale-Acquisition/kale-n2-recruiting
 - **Email domains:** @n2co.com (same org as N2)
-- **Notes:** Cold outreach RELAUNCHED (June 22). Rejection Reasons re-engagement active (19 positives / 462 sends week of July 17-23, up 27% WoW). 🔴 Contract final week — delivery due July 31; limited support only after. $5.5K payment received May 2026. Budget approval from Abby still pending (7+ weeks).
+- **Notes:** ✅ Contract DELIVERED July 31. Now in limited support mode only. Rejection Reasons re-engagement steady (18 positives / 467 sends week of July 24-30). Post-delivery: Calendly webhook fix open; phone number backfill in progress. Budget approval from Abby still pending (7+ weeks). August support revenue (~$1,500-2,500 USD/mo) unconfirmed.
 
 ### Terraboost
 
@@ -42,7 +42,7 @@
 - **Geo focus:** National US (local business targeting)
 - **Repo:** Kale-Acquisition/kale-terraboost
 - **Email domains:** @terraboost.com
-- **Notes:** Three sub-agreements (TB Local, National, Tazza). 🔴 Retention risk — new PE-background CEO reviewing all vendor contracts. Value case deadline Aug 3 (Naperville meeting). Mayra Tucunduva-Goble now sole Kale POC. HubSpot full rebuild underway. 🔴 Instantly data supply ~5 days as of July 24. ~$800K closed revenue / 6,300 leads / ~19x ROI documented.
+- **Notes:** Three sub-agreements (TB Local, National, Tazza). 🔴 Retention risk — Naperville meeting with new PE-background CEO occurred Aug 3 (outcome pending). Mayra Tucunduva-Goble now sole Kale POC. HubSpot full rebuild underway. 🔴 Instantly data supply ~5 days. Week of July 24-30: 496 positives / 56,940 sends (consistent). July 23-29 blend shift weakened topline to 1:128.3 — core lanes intact. ~$800K closed revenue / 6,300 leads / ~19x ROI documented.
 
 ### Riipen
 
@@ -54,7 +54,7 @@
 - **Geo focus:** Canada (small/micro businesses, <10 employees)
 - **Repo:** Kale-Acquisition/kale-riipen
 - **Email domains:** @riipen.com
-- **Notes:** Top performer — 1:86.1 ratio. $5,800/mo. $9,000 expansion proposal open 20+ weeks. RevReply AI calling onboarding active (goal: 150k/month sends). Shifting to 40% US / 60% Canada send split. OPS-7739 Step 2 evaluation gate reached July 27. Data supply healthy (24 business days). Payment commitment from Greg unresolved 30+ days.
+- **Notes:** Top performer — 1:86.0 ratio. $5,800/mo. $9,000 expansion proposal open 20+ weeks. ✅ Routing bug resolved. ✅ RevReply AI calling onboarding complete — phone automation built, webhook confirmed with Riipen engineers. Week of July 24-30: 377 positives / 30,238 sends (up 5% WoW); US sends scaling to 5,799. OPS-7739 Step 2 evaluation gate reached July 27 — assessment pending. Data supply healthy (24 business days). Payment commitment from Greg unresolved 30+ days.
 
 ---
 
