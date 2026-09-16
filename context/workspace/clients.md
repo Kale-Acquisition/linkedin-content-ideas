@@ -8,6 +8,19 @@
 
 ## Active Clients
 
+### David Protein
+
+- **Vertical:** DTC / Consumer Goods (protein & supplements)
+- **Status:** Active (Onboarding)
+- **Services:** Infrastructure, Campaigns, Lead Sourcing (planned)
+- **Start date:** 2026-09-14
+- **Primary contact:** Lissy Ginsburg, Manager of Growth (lissy@davidprotein.com) · Jack Elrad, Sr. Director of E-commerce (jack@davidprotein.com)
+- **Geo focus:** US (local/small businesses — wholesale sample-pack outreach)
+- **Repo:** Kale-Acquisition/kale-david-protein (to create)
+- **Email domains:** TBD (inbox allocation in progress)
+- **Billing:** $5,000/month
+- **Notes:** NEW — signed Sep 10, onboarding started Sep 14. Managed wholesale outbound proof of concept. Kick-off draft prepared (pending Mike review). Tech setup (Instantly, EmailBison, Outfound) in progress. No campaigns running yet. Linear: CLIENTS-7646.
+
 ### N2 (The N2 Company)
 
 - **Vertical:** Media
