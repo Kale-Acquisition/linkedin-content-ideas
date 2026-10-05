@@ -11,15 +11,15 @@
 ### David Protein
 
 - **Vertical:** DTC / Consumer Goods (protein & supplements)
-- **Status:** Active (Onboarding)
+- **Status:** Active (First Campaigns Running)
 - **Services:** Infrastructure, Campaigns, Lead Sourcing (planned)
 - **Start date:** 2026-09-14
 - **Primary contact:** Lissy Ginsburg, Manager of Growth (lissy@davidprotein.com) · Jack Elrad, Sr. Director of E-commerce (jack@davidprotein.com)
 - **Geo focus:** US (local/small businesses — wholesale sample-pack outreach)
-- **Repo:** Kale-Acquisition/kale-david-protein (to create)
-- **Email domains:** TBD (inbox allocation in progress)
+- **Repo:** Kale-Acquisition/kale-david-protein
+- **Email domains:** Allocated (groups A/B assigned)
 - **Billing:** $5,000/month
-- **Notes:** NEW — signed Sep 10, onboarding started Sep 14. Managed wholesale outbound proof of concept. Kick-off draft prepared (pending Mike review). Tech setup (Instantly, EmailBison, Outfound) in progress. No campaigns running yet. Linear: CLIENTS-7646.
+- **Notes:** ✅ Campaigns LAUNCHED Sep 30. First-day snapshot Oct 1: 22 leads / ~400 sends (~1:18). Integration fixes deployed (field flow, email logging, HubSpot permissions, master DNC list). Oct 2 ramp approval received — morning check-ins before each volume increase. Live DNC sync and Gorgias integration deferred to phase 2. Recurring invoice not yet set up. Linear: CLIENTS-7646.
 
 ### N2 (The N2 Company)
 
@@ -31,7 +31,7 @@
 - **Geo focus:** National US (multiple metro markets)
 - **Repo:** Kale-Acquisition/kale-n2
 - **Email domains:** @n2co.com
-- **Notes:** Longest-running client. 31 deals closed mid-May; targeting 100/mo by year-end. BeLocal CG-1 launched (1:68.8 most recent week). Week of July 24-30: 821 positives / 53,361 sends — steady. NonPersonal strengthened to 1:63.2; Personal weakened — investigating. 🔴 Data pipeline expansion underway. Derick Gilliam Jr (SDR team lead) onboarded to inbox tool July 31.
+- **Notes:** Longest-running client. Targeting 100 closed deals/mo by year-end. Health: Green. Week of Sep 25–Oct 1: 1,027 positives / 62,206 sends / 1:60.6 — 138.3 above 1:70 target. Set 5 new PE main driver (552 PRs, 1:53.7 yield). Set 6 expanded to 26,892 sends / 391 PRs; bounce rate improving (5.64%→2.95%). MSFT NPE scaled back to 3.2%. 🔴 Data pipeline expansion ongoing. Derick Gilliam Jr (SDR team lead) onboarded Jul 31.
 
 ### N2 Recruiting
 
@@ -43,7 +43,7 @@
 - **Geo focus:** National US (started Salt Lake City, expanded to DFW + larger metros)
 - **Repo:** Kale-Acquisition/kale-n2-recruiting
 - **Email domains:** @n2co.com (same org as N2)
-- **Notes:** ✅ Contract DELIVERED July 31. Now in limited support mode only. Rejection Reasons re-engagement steady (18 positives / 467 sends week of July 24-30). Post-delivery: Calendly webhook fix open; phone number backfill in progress. Budget approval from Abby still pending (7+ weeks). August support revenue (~$1,500-2,500 USD/mo) unconfirmed.
+- **Notes:** ✅ Contract DELIVERED July 31. Limited support mode. Health: Yellow. Week of Sep 25–Oct 1: 21 positives / 630 sends (down from 30/630, –30% WoW). ✅ Blackout-state filter deployed Sep 29. ⚡ October 9–12 full outreach pause scheduled — must verify config. ⚠️ Budget approval from Abby: 15+ weeks unresolved. August/September support revenue ($1,500–2,500/mo) unconfirmed. Calendly webhook fix still in progress.
 
 ### Terraboost
 
@@ -55,7 +55,7 @@
 - **Geo focus:** National US (local business targeting)
 - **Repo:** Kale-Acquisition/kale-terraboost
 - **Email domains:** @terraboost.com
-- **Notes:** Three sub-agreements (TB Local, National, Tazza). 🔴 Retention risk — Naperville meeting with new PE-background CEO occurred Aug 3 (outcome pending). Mayra Tucunduva-Goble now sole Kale POC. HubSpot full rebuild underway. 🔴 Instantly data supply ~5 days. Week of July 24-30: 496 positives / 56,940 sends (consistent). July 23-29 blend shift weakened topline to 1:128.3 — core lanes intact. ~$800K closed revenue / 6,300 leads / ~19x ROI documented.
+- **Notes:** Three sub-agreements (TB Local, National, Tazza). Health: Green. ✅ First week above 1:125 target — Sep 25–Oct 1: 492 positives / 60,481 sends / 1:122.9 (+8.2 above target). GMaps expanded to 81.8% of sends at ~1:112.5. MSFT v2 test at 1:109.5 (outperforming ordinary NPE). D7 scaled back to 17%. ~$800K closed revenue / 6,300 leads / ~19x ROI. 🔴 Retention risk — Naperville CEO meeting outcome still to confirm with Mayra. HubSpot full rebuild underway. 🔴 Instantly data supply flag unresolved since July. Mayra Tucunduva-Goble sole Kale POC.
 
 ### Riipen
 
@@ -67,7 +67,7 @@
 - **Geo focus:** Canada (small/micro businesses, <10 employees)
 - **Repo:** Kale-Acquisition/kale-riipen
 - **Email domains:** @riipen.com
-- **Notes:** Top performer — 1:86.0 ratio. $5,800/mo. $9,000 expansion proposal open 20+ weeks. ✅ Routing bug resolved. ✅ RevReply AI calling onboarding complete — phone automation built, webhook confirmed with Riipen engineers. Week of July 24-30: 377 positives / 30,238 sends (up 5% WoW); US sends scaling to 5,799. OPS-7739 Step 2 evaluation gate reached July 27 — assessment pending. Data supply healthy (24 business days). Payment commitment from Greg unresolved 30+ days.
+- **Notes:** Health: Yellow (improving). $5,800/mo. $9,000 expansion proposal open 20+ weeks. Week of Sep 25–Oct 1: 250 positives / 29,172 sends / 1:116.7 — target missed by 35 (down from 55 prior week). US at 56.2% of sends (approved 40%); FuturePath at 43.8% (approved 60%). FuturePath GMaps NPE declining on flat volume — priority investigation. ✅ RevReply AI calling integration complete. ✅ Routing bug resolved. OPS-7739 Step 2 evaluation: 10+ weeks past gate. Payment commitment from Greg: 30+ days unresolved.
 
 ---
 
