@@ -69,6 +69,18 @@
 - **Email domains:** @riipen.com
 - **Notes:** Health: Yellow (improving). $5,800/mo. $9,000 expansion proposal open 20+ weeks. Week of Sep 25–Oct 1: 250 positives / 29,172 sends / 1:116.7 — target missed by 35 (down from 55 prior week). US at 56.2% of sends (approved 40%); FuturePath at 43.8% (approved 60%). FuturePath GMaps NPE declining on flat volume — priority investigation. ✅ RevReply AI calling integration complete. ✅ Routing bug resolved. OPS-7739 Step 2 evaluation: 10+ weeks past gate. Payment commitment from Greg: 30+ days unresolved.
 
+### OnePlan
+
+- **Vertical:** Events / Local Business (event-business outreach lanes)
+- **Status:** Pre-Launch (first campaign targeting Nov 6)
+- **Services:** Infrastructure, Campaigns, Lead Sourcing, Inbox Management (planned)
+- **Start date:** 2026-10 (onboarding)
+- **Primary contact:** TBD — confirm at prelaunch kickoff
+- **Geo focus:** TBD (approved initial event-business lanes)
+- **Repo:** TBD — not yet created
+- **Billing:** TBD
+- **Notes:** October focus: launch first campaign. Status: at risk as of Oct 28 — prelaunch kickoff may move to Monday Nov 2. Data production in progress (CLIENTS-8023/8025, Roshan). Backend, CRM integration, DNC sync, and deal tracking all open (Azhar — CLIENTS-8010/8012/8013/8014). Target: first campaign live Nov 6; first interpretable result Nov 13. Coverage gap: Roshan's November 6 travel creates a launch handoff dependency. Linear: CLIENTS-7971 (November plan). ⚠️ Repo and billing details to be added at kickoff.
+
 ---
 
 ## Past Clients
