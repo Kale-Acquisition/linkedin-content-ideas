@@ -72,14 +72,14 @@
 ### OnePlan
 
 - **Vertical:** Events / Local Business (event-business outreach lanes)
-- **Status:** Pre-Launch (first campaign targeting Nov 6)
+- **Status:** Active (First Campaigns Running)
 - **Services:** Infrastructure, Campaigns, Lead Sourcing, Inbox Management (planned)
 - **Start date:** 2026-10 (onboarding)
 - **Primary contact:** TBD — confirm at prelaunch kickoff
 - **Geo focus:** TBD (approved initial event-business lanes)
 - **Repo:** TBD — not yet created
 - **Billing:** TBD
-- **Notes:** October focus: launch first campaign. Status: at risk as of Oct 28 — prelaunch kickoff may move to Monday Nov 2. Data production in progress (CLIENTS-8023/8025, Roshan). Backend, CRM integration, DNC sync, and deal tracking all open (Azhar — CLIENTS-8010/8012/8013/8014). Target: first campaign live Nov 6; first interpretable result Nov 13. Coverage gap: Roshan's November 6 travel creates a launch handoff dependency. Linear: CLIENTS-7971 (November plan). ⚠️ Repo and billing details to be added at kickoff.
+- **Notes:** ✅ Campaigns LAUNCHED Oct 30–Nov 5. First week: 3,012 sends / 11 positives (1:273.8), 85 human replies, 32 bounces (1.06%). Four test campaigns (Sophie/Devin × PE/NPE). PE showing stronger early ratio. First interpretable results expected Nov 13. Backend, CRM integration, DNC sync, and deal tracking still open (Azhar — CLIENTS-8010/8012/8013/8014). ⚠️ Repo and billing still to be created. Linear: CLIENTS-7971, CLIENTS-7976, CLIENTS-8036.
 
 ---
 
