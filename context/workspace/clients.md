@@ -69,6 +69,19 @@
 - **Email domains:** @riipen.com
 - **Notes:** Health: Yellow (improving). $5,800/mo. $9,000 expansion proposal open 20+ weeks. Week of Sep 25–Oct 1: 250 positives / 29,172 sends / 1:116.7 — target missed by 35 (down from 55 prior week). US at 56.2% of sends (approved 40%); FuturePath at 43.8% (approved 60%). FuturePath GMaps NPE declining on flat volume — priority investigation. ✅ RevReply AI calling integration complete. ✅ Routing bug resolved. OPS-7739 Step 2 evaluation: 10+ weeks past gate. Payment commitment from Greg: 30+ days unresolved.
 
+### Nextiva
+
+- **Vertical:** SaaS / UCaaS (AI receptionist — XBert)
+- **Status:** Active (Stage 3 — Making it pay, regressed since ~Sep 2026)
+- **Services:** Campaigns (SMB self-serve + MM lanes), Inbox Management
+- **Start date:** 2026-04 (POC); retainer from 2026-09
+- **Primary contact:** Zach Grove, Growth Lead (decision-maker); Kathan Parag Shah (day-to-day); Maria Ildiakova (PartnerStack payments)
+- **Geo focus:** US (1–20 employees self-serve), some Canada MM (21–50)
+- **Repo:** TBD — not yet in workspace roster (tentative slug: kale-nextiva)
+- **Email domains:** ~900 inboxes provisioned (Instantly)
+- **Billing:** $10,000/month retainer via PartnerStack (informal; Nextiva can stop at any time). Revisit due Dec/Jan 2027. Paid through Nov 20.
+- **Notes:** POC Apr–Jun 2026 ($3,500, ~57.5k sends). Affiliate model Jun–Sep, then $10k/month retainer from Sep 18. High point Aug 2026: lead-to-demo 17–22%, weekly wins. Declined to 1.5–5% conversion after scaling to 150k sends/month and expanding rep pool. Stage regressed. Currently walking back scale: rep pool cut 8→4 effective Nov 23 with 10% bar. 23 closed-won total (Nextiva's official count: 17 SMB + 6 LMM). Active issues: 16/33 replies missing (Nov 20), MM lane never reaching 1:1,000 target, retainer revisit imminent. Our side: Mike (relationship, strategy), Roshan (infra, PartnerStack account), Azhar (demo-number automation). **Added to roster Nov 23 — was missing from workspace despite being an active client in Notion.**
+
 ### OnePlan
 
 - **Vertical:** Events / Local Business (event-business outreach lanes)
